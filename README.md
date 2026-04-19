@@ -14,13 +14,13 @@
 ![ChatGPT Oficina](ChatgptOficina.png)
 ![ChatGPT Pasaporte](Chatpasaporte.png)
 
-![Gemini Cafetería](gemini cafeteria.png)
-![Gemini CCTV](gemini ctv.png)
-![Gemini Foto vieja](gemini foto vieja.png)
-![Gemini Pasaporte](gemini pasaporte.png)
-![Gemini Policía](gemini policia.png)
-![Gemini Selfie](gemini selfie.png)
-![Gemini Trabajo](gemini trabajo.png)
+![Gemini Cafetería](geminicafeteria.png)
+![Gemini CCTV](geminictv.png)
+![Gemini Foto vieja](geminifotovieja.png)
+![Gemini Pasaporte](geminipasaporte.png)
+![Gemini Policía](geminipolicia.png)
+![Gemini Selfie](geminiselfie.png)
+![Gemini Trabajo](geminitrabajo.png)
 
 ---
 
