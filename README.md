@@ -9,7 +9,7 @@
 ![ChatGPT Cafetería](ChatGPTCafeteria.png)
 ![ChatGPT CCTV](ChatGPTCCTV.png)
 ![ChatGPT Incidente](ChatgptIncidente.png)
-![ChatGPT Los 80](ChatgptLos 80.png)
+![ChatGPT Los 80](ChatgptLos80.png)
 ![ChatGPT Selfie](ChatGPTSelfie.png)
 ![ChatGPT Oficina](ChatgptOficina.png)
 ![ChatGPT Pasaporte](Chatpasaporte.png)
