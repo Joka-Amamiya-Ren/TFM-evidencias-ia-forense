@@ -15,7 +15,7 @@
 ![ChatGPT Pasaporte](Chatpasaporte.png)
 
 ![Gemini Cafetería](geminicafeteria.png)
-![Gemini CCTV](geminictv.png)
+![Gemini CCTV](geminicctv.png)
 ![Gemini Foto vieja](geminifotovieja.png)
 ![Gemini Pasaporte](geminipasaporte.png)
 ![Gemini Policía](geminipolicia.png)
