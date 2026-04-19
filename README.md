@@ -6,7 +6,7 @@
 
 ### 1.1 Comparativa ChatGPT vs Gemini
 
-![ChatGPT Cafetería](ChatGPTcafeteria.png)
+![ChatGPT Cafetería](ChatGPTCafeteria.png)
 ![ChatGPT CCTV](ChatGPTCCTV.png)
 ![ChatGPT Incidente](ChatgptIncidente.png)
 ![ChatGPT Los 80](ChatgptLos 80.png)
@@ -26,7 +26,7 @@
 
 ### 1.2 Pre-modelo
 
-![PreModelo 1](Premodelo1.png)
+![PreModelo 1](PreModelo1.png)
 ![PreModelo 2](Premodelo2.png)
 ![PreModelo 3](Premodelo3.png)
 ![PreModelo 4](Premodelo4.png)
