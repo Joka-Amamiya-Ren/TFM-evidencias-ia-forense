@@ -52,49 +52,58 @@
 
 ## 2. Videos
 
-### 2.1 FaceSwap
+### 2.1 FaceSwap 
 
-[![FaceSwap Hombre](captura_faceswap_hombre.png)](FaceSwapFake.mp4)
+## Hombre
 
-[![FaceSwap Mujer](captura_faceswap_mujer.png)](FaceSwapMujerFake.mp4)
+[![FaceSwap Hombre Original](CapturaFaceSwapOriginal.png)](FaceSwapFake.mp4)
+
+[![FaceSwap Mujer](CapturaFaceSwapFake.png)](FaceSwapMujerFake.mp4)
+
+## Mujer
+
+[![FaceSwap Mujer Original](CapturaFaceSwapMujerOriginal.png)](FaceSwapFake.mp4)
+
+[![FaceSwap Mujer Falso](CapturaFaceSwapMujerFake.png)](FaceSwapMujerFake.mp4)
+
 
 ---
 
 ### 2.2 Deepfakes
 
-[![Deepfake Falso](captura_deepfake_falso.png)](DeepfakeFalso.mp4)
+[![Deepfake Falso](CapturaDeepfakeFalso.png)](DeepfakeFalso.mp4)
 
-[![Deepfake Original](captura_deepfake_original.png)](DeepfakeOriginal.mp4)
+[![Deepfake Original](CapturaDeepfakeOriginal.png)](DeepfakeOriginal.mp4)
 
 ---
 
 ### 2.3 Videos de modelo
 
-[![Modelo Caminar](captura_modelo_caminar.png)](ModeloCaminar.mp4)
+[![Modelo Caminar](Yo.jpeg)](ModeloCaminar.mp4)
 
-[![Modelo Entrar](captura_modelo_entrar.png)](ModeloEntrar.mp4)
+[![Modelo Entrar](Yo.jpeg)](ModeloEntrar.mp4)
 
-[![Modelo Noche](captura_modelo_noche.png)](ModeloNoche.mp4)
+[![Modelo Noche](Yo.jpeg)](ModeloNoche.mp4)
 
-[![Modelo Noticia](captura_modelo_noticia.png)](ModeloNoticia.mp4)
+[![Modelo Noticia](Yo.jpeg)](ModeloNoticia.mp4)
 
-[![Robo](captura_robo.png)](Robo.mp4)
+[![Robo](Yo.jpeg)](Robo.mp4)
 
 ---
 
 ### 2.4 Character Motion
 
-[![Character Motion Fake](captura_charactermotion_fake.png)](CharacterMotionFake.mp4)
+[![Character Motion Fake](CapturaCharacterFake.png)](CharacterMotionFake.mp4)
 
-[![Character Motion Original](captura_charactermotion_original.png)](CharacterMotionOriginal.mp4)
+[![Character Motion Original](CapturaCharacterOriginal.png)](CharacterMotionOriginal.mp4)
 
 ---
 
 ### 2.5 Edición de video
 
-[![Edición Video Ejemplo](captura_edicion_video.png)](EdicionVideoEj.mp4)
+[![Edición Video Ejemplo](CapturaEdicionEj.png)](EdicionVideoEj.mp4)
 
-[![Video Edición](captura_video_edicion.png)](Videoedicion.mp4)
+[![Video Edición](CapturaEdicionVideo.png)](Videoedicion.mp4)
 
 ---
 
@@ -114,15 +123,15 @@
 
 ### 3.3 Audio FakeYou
 
-[Escuchar audio](FakeYouMarianoCl.mp3)
+[Escuchar audio](FakeYouMarianoCloss.wav)
 
 ---
 
 ### 3.4 Canciones generadas
 
-[Escuchar canción](Cancion SUNO.mp3)
+[Escuchar canción](CancionSUNO.mp3)
 
-[Escuchar canción](Cancion Riffusion.mp3)
+[Escuchar canción](CancionRiffusion.mp3)
 
 ---
 
@@ -137,5 +146,5 @@
 
 ## 5. Avatares generados con IA
 
-![Avatar IA](AvatarIA.mp4) <!-- si tienes imagen, reemplazar -->
-![Avatar Deepfake](AvatarDeepFake.mp4)
+[![Avatar IA](CapturaAvatarIA.png)](AvatarIA.mp4)
+[![Avatar IA](CapturaAvatarDeepfake.png)](AvatarDeepfake.mp4)
