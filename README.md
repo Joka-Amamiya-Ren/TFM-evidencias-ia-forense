@@ -56,15 +56,15 @@
 
 ## Hombre
 
-[![FaceSwap Hombre Original](CapturaFaceSwapOriginal.png)](FaceSwapFake.mp4)
+[![FaceSwap Hombre Original](CapturaFaceSwapOriginal.png)](https://drive.google.com/file/d/1ZXYr6qGf3ulQakvt4q8N7sSzZBsKTlme/view?usp=sharing)
 
-[![FaceSwap Mujer](CapturaFaceSwapFake.png)](FaceSwapMujerFake.mp4)
+[![FaceSwap Hombre Falso](CapturaFaceSwapFake.png)](https://drive.google.com/file/d/1rBTiMZwzqjD8EFrGir4WMaPVuWYu0mXl/view?usp=sharing)
 
 ## Mujer
 
-[![FaceSwap Mujer Original](CapturaFaceSwapMujerOriginal.png)](FaceSwapFake.mp4)
+[![FaceSwap Mujer Original](CapturaFaceSwapMujerOriginal.png)](https://drive.google.com/file/d/1o0kBUXyWYKkR_dkoQeCnClc5htozcjNG/view?usp=sharing)
 
-[![FaceSwap Mujer Falso](CapturaFaceSwapMujerFake.png)](FaceSwapMujerFake.mp4)
+[![FaceSwap Mujer Falso](CapturaFaceSwapMujerFake.png)](https://drive.google.com/file/d/16_q8zwRuMK0H92OwmunFzDe8XYRKobDC/view?usp=sharing)
 
 
 ---
@@ -74,37 +74,37 @@
 
 [![Deepfake Original](CapturaDeepfakeFalso.png)](https://drive.google.com/file/d/1IvJi4stSvZm4z5y5XWb1lZCv1va5lVx7/view?usp=drive_link)
 
-[![Deepfake Original](CapturaDeepfakeOriginal.png)](DeepfakeOriginal.mp4)
+[![Deepfake Original](CapturaDeepfakeOriginal.png)](https://drive.google.com/file/d/191q9wbfQwqFfB4K1YNtk-1_EU32aIqAu/view?usp=sharing)
 
 ---
 
 ### 2.3 Videos de modelo
 
-[![Modelo Caminar](Yo.jpeg)](ModeloCaminar.mp4)
+[![Modelo Caminar](Yo.jpeg)](https://drive.google.com/file/d/1wv3prD-Btp7SsVxJi2tfW30gEMdSwc0Z/view?usp=sharing)
 
-[![Modelo Entrar](Yo.jpeg)](ModeloEntrar.mp4)
+[![Modelo Entrar](Yo.jpeg)](https://drive.google.com/file/d/1KkZXczo5qYlVuyqWmiIEW_W_u9m4kFje/view?usp=sharing)
 
-[![Modelo Noche](Yo.jpeg)](ModeloNoche.mp4)
+[![Modelo Noche](Yo.jpeg)](https://drive.google.com/file/d/1l8IRU6pZ4udmIkmUDsBhWgJDwgfGL_cN/view?usp=sharing)
 
-[![Modelo Noticia](Yo.jpeg)](ModeloNoticia.mp4)
+[![Modelo Noticia](Yo.jpeg)](https://drive.google.com/file/d/1suxETh_D6xMRw0SutS-YxKAgtLgl-hQ5/view?usp=sharing)
 
-[![Robo](Yo.jpeg)](Robo.mp4)
+[![Robo](Yo.jpeg)](https://drive.google.com/file/d/1rikHtr5qWcknicHH4tm6CKqzEi4-gUgd/view?usp=sharing)
 
 ---
 
 ### 2.4 Character Motion
 
-[![Character Motion Fake](CapturaCharacterFake.png)](CharacterMotionFake.mp4)
+[![Character Motion Fake](CapturaCharacterFake.png)](https://drive.google.com/file/d/19FtIG-wEBo7ykzlOGZ3-DtrQ5bgj7sTX/view?usp=sharing)
 
-[![Character Motion Original](CapturaCharacterOriginal.png)](CharacterMotionOriginal.mp4)
+[![Character Motion Original](CapturaCharacterOriginal.png)](https://drive.google.com/file/d/11zVWjsy7Kwbuft0IYOlD11uUGp8c4Ppa/view?usp=sharing)
 
 ---
 
 ### 2.5 Edición de video
 
-[![Edición Video Ejemplo](CapturaEdicionEj.png)](EdicionVideoEj.mp4)
+[![Edición Video Ejemplo](CapturaEdicionEj.png)](https://drive.google.com/file/d/1v741IYfdKkE2Tg9A6jbeKey-M7RKdTXI/view?usp=sharing)
 
-[![Video Edición](CapturaEdicionVideo.png)](Videoedicion.mp4)
+[![Video Edición](CapturaEdicionVideo.png)](https://drive.google.com/file/d/1-nWQvaD3aifi7A2ev4Vcry1TSuOzFK6e/view?usp=sharing)
 
 ---
 
@@ -147,5 +147,5 @@
 
 ## 5. Avatares generados con IA
 
-[![Avatar IA](CapturaAvatarIA.png)](AvatarIA.mp4)
-[![Avatar IA](CapturaAvatarDeepfake.png)](AvatarDeepfake.mp4)
+[![Avatar IA](CapturaAvatarIA.png)](https://drive.google.com/file/d/1q4Cit47Syr5k8JGOGdokKsqSf37htQfS/view?usp=sharing)
+[![Avatar IA](CapturaAvatarDeepfake.png)](https://drive.google.com/file/d/1I90-R4NeN29ZUiD5mmUvtpGWTWuG-QbG/view?usp=sharing)
