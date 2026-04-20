@@ -46,7 +46,7 @@
 ![Modelo Selfie 2](ModeloSelfie2.png)
 ![Modelo Viaje](ModeloViaje.png)
 ![Modelo Viaje 2](ModeloViaje2.png)
-![Modelo Robo](Robo.mp4) <!-- ESTE NO ES IMAGEN, IGNORAR SI DA ERROR -->
+
 
 ---
 
