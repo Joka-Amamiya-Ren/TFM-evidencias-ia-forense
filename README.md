@@ -112,27 +112,27 @@
 
 ### 3.1 Audio original
 
-[Escuchar audio](AudioOriginal.ogg)
+[Escuchar audio](https://drive.google.com/file/d/18b_-tmXc_Abuz-rtacHwuCOtrLE42plB/view?usp=sharing)
 
 ---
 
 ### 3.2 Audio modelo
 
-[Escuchar audio](AudioModelo.mp3)
+[Escuchar audio](https://drive.google.com/file/d/1pqG08NTEPX1Kz3NEoGWAG_TYhzY7OAXa/view?usp=sharing)
 
 ---
 
 ### 3.3 Audio FakeYou
 
-[Escuchar audio](FakeYouMarianoCloss.wav)
+[Escuchar audio](https://drive.google.com/file/d/1DxMua5JDreN7BNpGaWUaudmkq3TUCl-r/view?usp=sharing)
 
 ---
 
 ### 3.4 Canciones generadas
 
-[Escuchar canción](CancionSUNO.mp3)
+[Escuchar canción](https://drive.google.com/file/d/1arji4z_0NK7xuwhHvBsbdtiao1NDVa6a/view?usp=sharing)
 
-[Escuchar canción](CancionRiffusion.mp3)
+[Escuchar canción](https://drive.google.com/file/d/1oWNGchH9uAu90rDjJSl0CjdoGxQvDmuC/view?usp=sharing)
 
 ---
 
