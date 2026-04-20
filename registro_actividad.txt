@@ -1,0 +1,20 @@
+------------------------------------------------------------
+REGISTRO DE ACTIVIDAD - SISTEMA DE MONITOREO
+Fecha: 2026-04-09
+Responsable: Departamento de Seguridad Digital
+------------------------------------------------------------
+
+[08:13:25] Inicio de sesión exitoso - Usuario: j.perdigon
+[08:15:10] Acceso a módulo de evidencias digitales
+[08:17:42] Archivo cargado: evidencia_001.jpg
+[08:19:03] Validación de integridad (SHA-256) completada
+[08:25:55] Exportación de reporte preliminar
+[08:30:11] Cierre de sesión
+
+Observaciones:
+No se detectaron anomalías críticas durante la sesión.
+Se recomienda validación adicional mediante herramientas forenses avanzadas.
+
+Firma:
+__________________________
+Analista de Seguridad
