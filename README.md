@@ -71,7 +71,7 @@
 
 ### 2.2 Deepfakes
 
-[![Deepfake Falso](CapturaDeepfakeFalso.png)](DeepfakeFalso.mp4)
+[![Deepfake Falso](CapturaDeepfakeFalso.png)]([DeepfakeFalso.mp4](https://drive.google.com/file/d/1IvJi4stSvZm4z5y5XWb1lZCv1va5lVx7/view?usp=sharing))
 
 [![Deepfake Original](CapturaDeepfakeOriginal.png)](DeepfakeOriginal.mp4)
 
