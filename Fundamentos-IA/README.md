@@ -2,16 +2,16 @@
 
 Este apartado reúne material técnico complementario relacionado con el funcionamiento general de modelos de inteligencia artificial generativa, incluyendo redes neuronales, machine learning, deep learning, GANs y modelos de difusión.
 
-Su finalidad es servir como apoyo conceptual al lector, sin afectar la extensión principal del documento del TFM.
+Su finalidad es servir como apoyo conceptual al lector, sin afectar la extensión principal del documento del TFM. Aqui se referenciara link y bibliografias expuestas en el documento principal.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 El avance reciente de la inteligencia artificial generativa ha permitido la creación de contenido multimedia altamente realista mediante modelos como redes generativas adversarias (GAN) y modelos de difusión. Estas tecnologías han evolucionado hasta producir imágenes, audio y video sintético con un nivel de fidelidad que dificulta su distinción respecto al contenido auténtico, lo que ha impulsado su adopción en múltiples sectores. Sin embargo, esta misma capacidad ha dado lugar a riesgos significativos asociados a la manipulación de información, especialmente en contextos donde la veracidad del contenido es crítica.
 
-Definiciones Previas: 
+# Definiciones Previas: 
 El mundo de la Inteligencia Artificial esta sostenido por distintas mecánicas tecnológicas introducidas en los últimos años, las cuales son necesarias precisar para el entendimiento posterior de las técnicas de generación y su método de detección. A continuación, una breve apertura de términos:
 
-Redes Neuronales Artificiales (ANN): 
+## Redes Neuronales Artificiales (ANN): 
 
 Las redes neuronales artificiales son modelos computacionales inspirados en la estructura y funcionamiento del cerebro humano, diseñados para identificar patrones y relaciones en grandes volúmenes de datos. Gracias a este mecanismo, las ANN son capaces de generar un “sistema adaptable que las computadoras utilizan para aprender de sus errores y mejorar continuamente. De esta forma, las redes neuronales artificiales intentan resolver problemas complicados, como la realización de resúmenes de documentos o el reconocimiento de rostros, con mayor precisión.” [10]
 
@@ -42,27 +42,27 @@ Durante el entrenamiento, la red compara sus resultados con los valores reales y
 A medida que procesa datos, la red aprende a identificar patrones ocultos (relaciones que no son evidentes a simple vista), lo que le permite realizar tareas como clasificar imágenes o generar contenido. Su estructura, conocida como arquitectura, puede variar desde modelos simples hasta redes profundas con muchas capas, lo que aumenta su capacidad para representar información compleja y explica por qué estas técnicas son la base de sistemas avanzados de inteligencia artificial.
 
 
-Machine Learning
+## Machine Learning
 
 El aprendizaje automático (Machine Learning) es una rama de la inteligencia artificial que permite a los sistemas aprender a partir de datos sin necesidad de ser programados con reglas explícitas. En lugar de indicar paso a paso qué hacer, se entrena al sistema con ejemplos para que identifique patrones y relaciones en la información. Este aprendizaje se basa en modelos que ajustan sus parámetros —como los pesos y sesgos previamente definidos— para mejorar sus resultados con el tiempo, utilizando procesos como la propagación hacia adelante (generar una predicción) y la propagación hacia atrás (corregir el error). [15]
 
 En el contexto de este trabajo, el Machine Learning constituye la base tecnológica que permite a los sistemas analizar grandes volúmenes de datos multimedia y aprender sus características. Esto es fundamental tanto para la generación como para la detección de contenido sintético, ya que los mismos principios que permiten identificar patrones reales pueden ser utilizados para replicarlos o para encontrar inconsistencias en ellos.
 
-Deep Learning
+## Deep Learning
 
 El aprendizaje profundo (Deep Learning) es una subdisciplina del Machine Learning que utiliza redes neuronales artificiales con múltiples capas para aprender representaciones más complejas de los datos. A diferencia de enfoques más simples, estas redes procesan la información en varias etapas, donde cada capa extrae características cada vez más abstractas, como bordes, formas o incluso estructuras completas en imágenes y audio. Este proceso se apoya en los mecanismos ya descritos, como el uso de pesos, sesgos y funciones de activación. [16]
 
 Su relevancia en este trabajo es central, ya que las técnicas modernas de generación de contenido como imágenes, audio o video manipulados se basan principalmente en modelos de Deep Learning. Estas mismas capacidades que permiten generar contenido altamente realista son las que dificultan su detección, lo que justifica la necesidad de desarrollar métodos forenses capaces de identificar patrones artificiales, inconsistencias o rastros dejados por estos modelos.
 
 
-Modelos Generativos.
+## Modelos Generativos.
 Los modelos generativos son sistemas de inteligencia artificial diseñados para crear nuevos datos a partir de patrones aprendidos durante el entrenamiento. A diferencia de los modelos discriminativos, que se enfocan en clasificar o predecir, los modelos generativos buscan aproximar la distribución de los datos originales para producir contenido sintético, como imágenes, audio o video, con características similares a los datos reales
 
 Los modelos generativos son el núcleo del problema, ya que son los responsables de la creación de contenido multimedia altamente realista, como deepfakes o audio clonado. Su capacidad para imitar patrones reales con gran precisión hace que la distinción entre contenido auténtico y manipulado sea cada vez más difícil, lo que plantea desafíos directos para el análisis forense y la valoración de evidencia digital. Por ej., cito este video, que fue famoso por engañar a una buena parte de la población en internet.
 
 [![Ver video](SORA.jpg)](https://www.youtube.com/watch?v=DJ93uYR4w6A)
 
-GAN (Generative Adversarial Network): 
+## GAN (Generative Adversarial Network): 
  
 ![Figura 2. Funcionamiento conceptual de una Generative Adversarial Network (GAN). Fuente: LinkedIn - Exploring the Fascinating Realm of Generative Adversarial Networks](GAN2.jpg)
 
@@ -72,17 +72,17 @@ Las GAN son especialmente relevantes porque han sido una de las principales tecn
 
 ![Figura 3. Ejemplo de manipulación interactiva mediante DragGAN. Fuente: https://github.com/XingangPan/DragGAN](DragGan.gif)
 
-Modelos de Difusión
+## Modelos de Difusión
 
 ![Figura 4. Modelos de Difusión. Fuente: Aurora Solar](Modelo1.png)
 
-![Figura 5. Modelos de Difusión. Fuente: Aurora Solar](Modelo2.png)
+![Figura 5. Modelos de Difusión. Fuente: Aurora Solar](Modelo 2.png)
  
 Los modelos de difusión son una clase más reciente de modelos generativos que crean datos a partir de un proceso progresivo de eliminación de ruido. Inicialmente, parten de una señal completamente aleatoria (ruido) y, mediante múltiples iteraciones, van reconstruyendo una imagen o señal coherente basándose en lo aprendido durante el entrenamiento. Este proceso inverso está guiado por redes neuronales profundas que predicen cómo debe “limpiarse” el ruido en cada paso.
 
 Estos modelos de difusión representan el estado del arte actual (o al menos, más usado) en generación de imágenes realistas, siendo utilizados por herramientas modernas capaces de producir contenido difícil de distinguir del real. Su funcionamiento introduce nuevos desafíos para la detección forense, ya que generan menos artefactos evidentes en comparación con las GAN, lo que exige técnicas de análisis más avanzadas.
 
-GAN vs Modelos de Difusión:
+## GAN vs Modelos de Difusión:
 
 ![Figura 6. Comparativa elaborada entre modelos GAN y modelos de difusión. Fuente: elaboración propia](GANVS.png)
 
