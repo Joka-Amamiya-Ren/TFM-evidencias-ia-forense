@@ -26,6 +26,7 @@ Los resultados obtenidos fueron mixtos. En algunos casos, los modelos lograron g
 ![ChatGPT Incidente](ChatgptIncidente.png)
 
 **ChatGPT – Selfie**
+
 ![ChatGPT Selfie](ChatGPTSelfie.png)
 
 **ChatGPT – Estilo años 80**
@@ -122,6 +123,7 @@ Con cada iteración el modelo mejoraba, dando resultados más fieles a la realid
 La IA puede “modelar” mi rostro y reusarlo en distintos planos, aunque este modelaje aun falla un poco rostro frontal, pero no en el perfil (al menos en las fotos de preso que se pueden ver en el repositorio). Finalmente, en diversas plataformas en línea, como ComfyUI o Civitai, es posible acceder a modelos previamente entrenados y listos para su uso, tanto de personas reales como de representaciones artificiales de personajes ficticios. Estos modelos, disponibles de forma abierta o mediante servicios específicos, permiten generar contenido sin necesidad de realizar procesos de entrenamiento desde cero, por ejemplo: 
 
 **Modelo Gratuita**
+
 ![Chica](Chica.png)
 
 ---
@@ -220,9 +222,11 @@ Otra técnica evaluada fue el motion control, que consiste en mapear una imagen 
 Los resultados dependieron principalmente de la compatibilidad entre la imagen y el video utilizado. Factores como orientación facial y estructura corporal influyen directamente en la calidad final. Cuando existe coherencia entre ambos elementos, el resultado puede ser altamente realista; de lo contrario, suelen aparecer artefactos visibles que evidencian la manipulación.
 
 **Animación generada**
+
 [![Character Motion Fake](CapturaCharacterFake.png)](https://drive.google.com/file/d/19FtIG-wEBo7ykzlOGZ3-DtrQ5bgj7sTX/view?usp=sharing)
 
 **Animación original**
+
 [![Character Motion Original](CapturaCharacterOriginal.png)](https://drive.google.com/file/d/11zVWjsy7Kwbuft0IYOlD11uUGp8c4Ppa/view?usp=sharing)
 
 A continuación, se presentan ejemplos de motion control ejecutados mediante herramientas en su versión premium, los cuales permiten apreciar el nivel de calidad que puede alcanzarse bajo condiciones óptimas de ejecución:
