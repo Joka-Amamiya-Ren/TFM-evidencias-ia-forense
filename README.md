@@ -303,7 +303,12 @@ Actualmente, existen múltiples plataformas gratuitas capaces de generar este ti
 
 ## 4. Edición de imágenes con IA
 
-Ejemplos de modificaciones realizadas sobre imágenes mediante herramientas de IA.
+La edición de imágenes mediante inteligencia artificial representa una evolución significativa frente a herramientas tradicionales como los editores manuales. Actualmente, los modelos generativos permiten modificar imágenes completas mediante instrucciones en lenguaje natural, manteniendo coherencia en iluminación, perspectiva y textura, generando resultados que en muchos casos resultan difíciles de distinguir de una edición real.
+
+## 4.1 Sección 1: Edición mediante modelos generativos
+
+En esta fase se evaluaron distintas herramientas de edición basadas en inteligencia artificial, utilizando modelos avanzados como Nano Banana Pro. Estas herramientas permiten modificar imágenes mediante instrucciones textuales, alterando elementos como entorno, iluminación o composición de la escena.
+Los resultados obtenidos fueron altamente satisfactorios y evidenciaron que la calidad final depende en gran medida del nivel de detalle del prompt. Instrucciones más precisas producen resultados más realistas y coherentes, manteniendo consistencia visual en aspectos como sombras, proporciones e iluminación.
 
 ![Edición 1](Edicion1.png)
 ![Edición 2](Edicion2.png)
@@ -314,11 +319,21 @@ Ejemplos de modificaciones realizadas sobre imágenes mediante herramientas de I
 
 ## 5. Avatares generados con IA
 
-Ejemplos de generación de avatares mediante modelos de inteligencia artificial.
+Los avatares humanos generados mediante inteligencia artificial representan una de las aplicaciones más avanzadas. A diferencia de técnicas como imágenes o deepfakes, los avatares permiten generar contenido audiovisual completo utilizando modelos de video, sincronización labial y, en muchos casos, clonación de voz.
+
+## 5.1 Sección 1: Evaluación de avatares (modelo genérico vs modelo propio)
+
+En esta fase se evaluaron dos tipos de avatares: uno basado en un modelo genérico generado por IA y otro construido a partir de datos reales de mi persona. En el primer caso, al tratarse de un avatar completamente sintético, los resultados fueron visualmente coherentes y estables, ya que el sistema no debía replicar una identidad específica, sino generar una representación artificial desde cero.
+
+El caso más relevante fue el del avatar generado a partir de datos propios. Utilizando material audiovisual de mi persona, el sistema logró replicar tanto mi apariencia como mi voz mediante técnicas de clonación vocal. El resultado fue convincente, manteniendo coherencia en movimientos, entorno y sincronización entre voz y gestos.
+Aun así, se identificaron pequeñas inconsistencias en detalles finos, especialmente en movimientos de la boca y expresiones faciales. Aunque estas imperfecciones pueden detectarse en un análisis detallado, el resultado general es lo suficientemente realista como para percibirse como auténtico en un contexto cotidiano
+
 
 [![Avatar IA](CapturaAvatarIA.png)](https://drive.google.com/file/d/1q4Cit47Syr5k8JGOGdokKsqSf37htQfS/view?usp=sharing)
 
 [![Avatar Deepfake](CapturaAvatarDeepfake.png)](https://drive.google.com/file/d/1I90-R4NeN29ZUiD5mmUvtpGWTWuG-QbG/view?usp=sharing)
+
+---
 
 ## 6. Modelos 3D
 
@@ -330,6 +345,8 @@ Como parte de esta investigación, se realizó una prueba básica de generación
 Aunque los resultados presentaron limitaciones en detalles finos y texturas, especialmente en el rostro y las manos, el nivel alcanzado fue suficiente para evidenciar el potencial de estas tecnologías. Herramientas más avanzadas o versiones premium permiten mejorar considerablemente la calidad final, ampliando los escenarios de suplantación y manipulación en entornos digitales. Para ver un impacto real de este escenario, detallar la siguiente noticia: https://www.xataka.com/seguridad/alguien-ha-impreso-cara-3d-para-intentar-burlar-reconocimiento-facial-moviles-solo-se-salva-uno
 
 ![Modelo 3D](Modelo3D.png)
+
+---
 
 ## 7. Archivos Ofimáticos:
 
@@ -346,3 +363,32 @@ Por si se quiere comprobar, los archivos se encuentran en el repositorio:
 
 Como: evidencias.csv -- registro
 _actividad.txt -- informe_forense.docx -- ejemplo_IA.xlsx
+
+---
+## 8. Programación:
+
+La inteligencia artificial también ha alcanzado el ámbito del desarrollo de software, permitiendo generar código funcional a partir de instrucciones en lenguaje natural. Actualmente, estos modelos pueden crear scripts, aplicaciones y sistemas completos sin requerir conocimientos avanzados de programación, introduciendo nuevos riesgos asociados a automatización, manipulación y generación.
+
+## 8.1 Sección 1: Generación de código mediante IA
+
+En esta fase se evaluó la capacidad de la inteligencia artificial para generar código mediante instrucciones en lenguaje natural, utilizando herramientas como ChatGPT y GitHub Copilot. Fue posible obtener scripts funcionales para tareas como análisis de archivos, automatización de procesos y generación de reportes.
+Planteándolo desde la ciberseguridad, esta capacidad tiene implicaciones relevantes. Aunque facilita la creación de herramientas legítimas, también puede utilizarse para automatizar ataques, manipular información o generar artefactos que aparenten legitimidad técnica. El siguiente sencillo ejemplo demuestra este punto:
+
+![Programacion1](Programacion1.png)
+
+![Programacion2](Programacion2.png)
+
+---
+
+## 8. Conversaciones falsas (chatbots):
+
+Los chatbots impulsados por inteligencia artificial permiten simular conversaciones naturales mediante modelos de lenguaje avanzados. En combinación con tecnologías como la clonación de voz, estos sistemas pueden replicar la forma de comunicarse de una persona específica, ampliando significativamente su potencial en escenarios tanto legítimos como de suplantación digital.
+
+## 8.1 Sección 1: Chatbots personalizados y simulación de identidad
+
+En esta fase se exploró la posibilidad de crear un chatbot personalizado utilizando plataformas como Character.AI, capaces de imitar el estilo de comunicación, personalidad y tono de una persona específica.
+Algunas implementaciones avanzadas integran clonación de voz, permitiendo que el chatbot no solo escriba, sino también “hable” como el individuo replicado. Durante esta prueba no fue posible implementar un chatbot funcional debido a limitaciones técnicas de la cuenta utilizada. No obstante, se incluye un material audiovisual de referencia que demuestra el proceso de creación y el resultado final de este tipo de sistemas.
+
+La Referencia en cuestión es : https://www.tiktok.com/@davidhosting/video/7377559499764272389
+
+---
