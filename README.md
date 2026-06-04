@@ -153,7 +153,7 @@ En primer lugar, se evaluaron herramientas de face swap, tanto locales como en l
 
 En versiones gratuitas, se observaron limitaciones evidentes en la alineación facial, inconsistencias en iluminación y pérdida de naturalidad en el movimiento. Si bien es posible obtener resultados aceptables, alcanzar un nivel alto de realismo requiere acceso a versiones premium o configuraciones más avanzadas. Por esta razón, se presenta un ejemplo del máximo resultado alcanzado bajo estas condiciones,  consiste en la actriz Liv Tyler, haciendo FaceSwap en el video objetivo, con la foto mostrada a continuación como referencia.
 
-![Liv](Liv.png)
+![Liv](Liv.jpg)
 
 **FaceSwap – Video original**
 [![FaceSwap Mujer Original](CapturaFaceSwapMujerOriginal.png)](https://drive.google.com/file/d/1o0kBUXyWYKkR_dkoQeCnClc5htozcjNG/view?usp=sharing)
