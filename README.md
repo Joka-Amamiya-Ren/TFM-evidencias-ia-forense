@@ -1,12 +1,20 @@
-# Evidencias del TFM – IA Forense
+# Generacion de contenido - TFM – IA Forense
+
+---
+
+A continuación, se mostrará algunos ejemplos de contenido generado mediante inteligencia artificial, con el objetivo de ilustrar de manera práctica el alcance y realismo que estas tecnologías pueden alcanzar en la actualidad. Este análisis se realizará bajo un enfoque estrictamente académico y controlado, respetando consideraciones éticas y legales, y sin incurrir en la creación o difusión de contenido que pueda vulnerar derechos o generar desinformación. Como aclaración, se evidencia que para obtener los mejores resultados era necesario pagar una suscripción premium o ejecutar de modo local los modelos generativos (para lo cual es necesario un computador de alta gama). Esto se aclara porque los mejores resultados vienen ligados de esas dos condiciones, por lo tanto, no lograre mostrar los resultados más realistas y se citaran personas que SI hayan podido tener alguna de las condiciones previamente descritas.
 
 ---
 
 ## 1. Imágenes generadas por IA
 
-### 1.1 Comparativa ChatGPT vs Gemini
+La generación de imágenes mediante inteligencia artificial ha alcanzado un nivel de realismo que, en muchos casos, resulta indistinguible para un observador no entrenado. A través de modelos generativos avanzados, es posible crear escenas, rostros y contextos completamente ficticios a partir de simples instrucciones en lenguaje natural. Esta sección tiene como objetivo evidenciar, mediante ejemplos prácticos, cómo estas herramientas pueden producir contenido visual creíble.
 
-A continuación, se presentan imágenes generadas mediante distintos modelos de inteligencia artificial, específicamente ChatGPT y Gemini, con el fin de evidenciar diferencias en estilo, contexto y realismo.
+### 1.1 Sección 1: “One Click” (Modelos tipo ChatGPT y Gemini):
+
+En primer lugar, se evaluaron herramientas de generación de imágenes accesibles mediante interfaces conversacionales, comúnmente denominadas como soluciones “one click”, como las ofrecidas por ChatGPT y Google Gemini. Estas plataformas integran modelos generativos de imágenes que permiten, a partir de un prompt, obtener resultados en cuestión de segundos sin necesidad de configuraciones avanzadas. En el caso de ChatGPT, se apoya en modelos como DALL·E y recientemente en GPT-4º [19], mientras que Gemini emplea arquitecturas propias (por ejemplo, variantes internas como Nano Banana 2 [20]).
+
+Los resultados obtenidos fueron mixtos. En algunos casos, los modelos lograron generar imágenes realistas o similares, especialmente cuando los prompts incluían condiciones detalladas como iluminación, imperfecciones o contexto (por ejemplo, estilo CCTV, fotografía casual o evidencia tipo mugshot). Sin embargo, en otros escenarios, se evidenciaron limitaciones claras, como la tendencia a replicar la pose original de la imagen base o mantener fondos similares, lo que puede delatar el uso de inteligencia artificial. Para esta evaluación, se utilizaron múltiples prompts diseñados específicamente para forzar cambios de ángulo, contexto y condiciones, los cuales se presentan como ejemplos prácticos del comportamiento de estos modelos. A continuacion el detalle:
 
 **ChatGPT – Escenario cafetería**
 ![ChatGPT Cafetería](ChatGPTCafeteria.png)
@@ -54,9 +62,11 @@ A continuación, se presentan imágenes generadas mediante distintos modelos de 
 
 ---
 
-### 1.2 Pre-modelo
+### 1.2 Sección 2: Modelos personalizados (fine-tuning / entrenamiento)
 
-En esta fase se presentan las imágenes iniciales utilizadas antes del proceso de ajuste o refinamiento del modelo.
+En un segundo nivel de complejidad se encuentran los modelos personalizados, los cuales permiten entrenar una inteligencia artificial sobre un individuo específico. Un modelo corresponde a una red neuronal previamente entrenada que puede ajustarse mediante técnicas de fine-tuning [21], utilizando imágenes adicionales para especializar la generación de contenido de una persona concreta. Actualmente, este proceso resulta altamente accesible gracias a plataformas que automatizan gran parte del entrenamiento. Como parte de esta investigación, se desarrolló un modelo propio utilizando Higgsfield 2.0, entrenado con aproximadamente 60 imágenes en distintos ángulos y contextos. El resultado fue un modelo capaz de generar imágenes realistas en múltiples escenarios, logrando engañar incluso a familiares y personas cercanas. 
+
+Esta parte se lleva a cabo únicamente con fotos en Higgsfield, con cada iteración mejora.
 
 **Iteración inicial 1**
 ![PreModelo 1](PreModelo1.png)
@@ -80,7 +90,7 @@ En esta fase se presentan las imágenes iniciales utilizadas antes del proceso d
 
 ### 1.3 Modelo
 
-A continuación, se muestran los resultados obtenidos tras el proceso de generación mediante el modelo ajustado.
+Con cada iteración el modelo mejoraba, dando resultados más fieles a la realidad. Dichas imágenes fueron sometidas a una prueba, donde se las envié a mis seres queridos, y adjudicaron que eran ciertas (a excepción del contexto irreal del presaje). 
 
 **Escenario carcelario**
 ![Modelo Carcel](ModeloCarcel.png)
@@ -108,6 +118,9 @@ A continuación, se muestran los resultados obtenidos tras el proceso de generac
 
 **Escenario de viaje 2**
 ![Modelo Viaje 2](ModeloViaje2.png)
+
+La IA puede “modelar” mi rostro y reusarlo en distintos planos, aunque este modelaje aun falla un poco rostro frontal, pero no en el perfil (al menos en las fotos de preso que se pueden ver en el repositorio). Finalmente, en diversas plataformas en línea, como ComfyUI o Civitai, es posible acceder a modelos previamente entrenados y listos para su uso, tanto de personas reales como de representaciones artificiales de personajes ficticios. Estos modelos, disponibles de forma abierta o mediante servicios específicos, permiten generar contenido sin necesidad de realizar procesos de entrenamiento desde cero, por ejemplo: 
+
 
 ---
 
